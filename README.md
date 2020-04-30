@@ -2,7 +2,7 @@
 
 #### Packages used
 
-## Frontend
+## Frontend - React Project created with parcel
 
 1. Language - `Javascript`
 2. Framework - `React`
@@ -10,6 +10,8 @@
 4. Style guide - `airbnb`
 5. Formatting - `Prettier`
 6. Linting - `Eslint`
+7. Bundler - `parcel`
+8. JSX and other polyfill - `Babel-7`
 
 ## Backend
 
@@ -25,7 +27,7 @@
 ### For Frontend `yarn start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:1234](http://localhost:1234) to view it in the browser.
 
 ### For Backend `python manage.py runserver`
 
