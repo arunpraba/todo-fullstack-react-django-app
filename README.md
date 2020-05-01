@@ -1,4 +1,4 @@
-# Todo FullStack App
+# Todo FullStack App `REACT` and `DJANGO` with Rich Text editor
 
 #### Packages used
 
@@ -10,7 +10,7 @@
 4. Style guide - `airbnb`
 5. Formatting - `Prettier`
 6. Linting - `Eslint`
-7. Bundler - `parcel`
+7. Bundler - `Parcel`
 8. JSX and other polyfill - `Babel-7`
 
 ## Backend
@@ -24,7 +24,7 @@
 
 ## Project Start Details
 
-### For Frontend `yarn start`
+### For Frontend `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:1234](http://localhost:1234) to view it in the browser.
