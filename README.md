@@ -41,12 +41,8 @@ for json format use
 
 # App UI
 
-### List Page
-
-![](images/list.png)
+|        List Page         |         Detail Page          |
+| :----------------------: | :--------------------------: |
+| ![List](images/list.png) | ![Detail](images/detail.png) |
 
 <br />
-
-### Detail Page
-
-![](images/detail.png)
