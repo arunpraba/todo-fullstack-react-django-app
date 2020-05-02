@@ -6,7 +6,7 @@
 
 1. Language - `Javascript`
 2. Framework - `React`
-3. CSS - `Bootstrap`
+3. CSS - `Tailwind`
 4. Style guide - `airbnb`
 5. Formatting - `Prettier`
 6. Linting - `Eslint`
